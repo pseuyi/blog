@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://recursive-buckwheat.surge.sh`,
     social: {
       twitter: `pseuyi`,
+      github: `pseuyi`,
     },
   },
   plugins: [

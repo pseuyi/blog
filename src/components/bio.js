@@ -40,11 +40,10 @@ const Bio = () => {
       }}
     >
       <p>
-        <strong>{author}</strong> is a nyc chinatown based programmer
+        <strong>{author}</strong> is programmer based in chinatown, nyc
         <p>
-          <a href={`https://twitter.com/${social.twitter}`}>
-            find them on twitter
-          </a>
+          <a href={`https://twitter.com/${social.twitter}`}>@pseuyi</a>
+          <a href={`https://github.com/${social.github}`}> ~github</a>
         </p>
       </p>
     </div>
