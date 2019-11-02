@@ -1,7 +1,7 @@
 ---
 title: backfilling 2
-date: "2019-10-25T23:38:11.642Z"
-description: why this blog exists
+date: "2019-10-13T23:38:11.642Z"
+description: welcome to my blog
 ---
 
 ![finished sandcastle](./sandcastle.jpg)
@@ -16,4 +16,4 @@ overall, one of the most common 'tasks' i documented include a variety of rake t
 
 i've decided after careful consideration that RC is the best place for me to backfill programming to my brain. when i imagined moving on from my first job as a software engineer to the next one, i realized that the primary allure of this fantasy rested on either a) proving to others i could find a better job than my current one, b) proving to others that i could obtain better pay or, c) some combination of a) and b). this felt super extrinsic to me, my needs, and my desire to connect with like-minded individuals. i feel really lucky that i can afford to navel gaze this hard while living in nyc and will be doing my best to not take that for granted.
 
-todo: i will try to document in the next few days what the rc admissions process was like and thoughts on my last job.
+TODO: i will try to document soon what the rc admissions process was like and thoughts on my last job.
