@@ -77,4 +77,5 @@ module.exports = {
     },
     `gatsby-plugin-emotion`,
   ],
+  pathPrefix: "/blog",
 }
