@@ -49,9 +49,6 @@ node_modules/
 .vscode/
 *.sw*
 
-# misc
-.serverless/
-
 # lock files
 yarn.lock
 package-lock.json
