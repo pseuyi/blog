@@ -62,9 +62,6 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer style={{ marginTop: rhythm(4) }}>
-          © {new Date().getFullYear()} @pseuyi
-        </footer>
       </div>
     )
   }
