@@ -1,7 +1,7 @@
 import Typography from "typography"
-import wikipediaTheme from "typography-theme-wikipedia"
+import theme from "typography-theme-blog"
 
-const typography = new Typography(wikipediaTheme)
+const typography = new Typography(theme)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {
