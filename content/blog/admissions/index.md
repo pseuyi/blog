@@ -1,5 +1,5 @@
 ---
-title: what the recurse center admission process is like (2019)
+title: tba
 date: "2019-10-26T19:32:52.462Z"
 description: ""
 ---
