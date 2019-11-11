@@ -35,8 +35,7 @@
     "react-typography": "^0.16.19",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
-    "typography": "^0.16.19",
-    "typography-theme-wordpress-2011": "^0.16.19"
+    "typography": "^0.16.19"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",

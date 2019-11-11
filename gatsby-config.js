@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `/Users/freda/dev/blog`,
+    title: `blog`,
     author: `freda suyi ding`,
-    description: `blog`,
+    description: `freda's blog`,
     siteUrl: `https://recursive-buckwheat.surge.sh`,
     social: {
       twitter: `pseuyi`,
