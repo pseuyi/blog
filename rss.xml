@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[blog]]></title><description><![CDATA[freda's blog]]></description><link>https://recursive-buckwheat.surge.sh</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Nov 2019 04:19:45 GMT</lastBuildDate><item><title><![CDATA[tba]]></title><description><![CDATA[(a book i wanted to read on kindle in sep 2019 from oreilly that they claim would not be released until july 2020) getting motivated while i…]]></description><link>https://recursive-buckwheat.surge.sh/admissions/</link><guid isPermaLink="false">https://recursive-buckwheat.surge.sh/admissions/</guid><pubDate>Sat, 26 Oct 2019 19:32:52 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[blog]]></title><description><![CDATA[freda's blog]]></description><link>https://recursive-buckwheat.surge.sh</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Feb 2020 16:04:25 GMT</lastBuildDate><item><title><![CDATA[tba]]></title><description><![CDATA[(a book i wanted to read on kindle in sep 2019 from oreilly that they claim would not be released until july 2020) getting motivated while i…]]></description><link>https://recursive-buckwheat.surge.sh/admissions/</link><guid isPermaLink="false">https://recursive-buckwheat.surge.sh/admissions/</guid><pubDate>Sat, 26 Oct 2019 19:32:52 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 184px;&quot;
     &gt;
@@ -39,38 +39,7 @@
 &lt;p&gt;if you’re lucky enough to be in nyc, rc hosts monthly lightning talks (localhost) where you can take a tour and see what folks are working on in batch. i went while i was applying to make sure the space still seemed like a good place for me to do the work i intend to do. and yes, it was a super friendly environment with many interesting people of every background. i went to localhost with a friend and notably someone who was in a current batch realized that they knew my friend from years ago through the wifi network (didn’t know this but iOs let’s you share wifi credentials when your contacts are nearby?).&lt;/p&gt;
 &lt;h2&gt;interviews&lt;/h2&gt;
 &lt;p&gt;given that most software jobs require hours of investment in coding challenges and day-long on sites, rc has an extremely slim interview process that takes place via video conference. one is conversational and the other is a pairing session. i personally felt like the conversational portion was just me ranting for 20 minutes straight about random things in and becoming really itchy and irritated in a poisonous phone booth. i was asked about both technical interests and approaches as well as more basic ‘why do you want to attend’ type stuff. i told my interview that i was nervous about getting laid off soon and they were very accomodating of this uncertainty. i was invited to schedule a pairing interview later that day.&lt;/p&gt;
-&lt;p&gt;for the pairing interview i decided to bring my own code which was good and bad. i had built a tic tac toe game before and really did not feel like doing that (lol). and anyway i was in the process of writing a script to convert web-only books to pdf and just really wanted to make it work.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[47 billion]]></title><description><![CDATA[in 2017 i was looking for my first job as a software engineer and to my surprise had the choice to work either on enterprise blockchain…]]></description><link>https://recursive-buckwheat.surge.sh/billion/</link><guid isPermaLink="false">https://recursive-buckwheat.surge.sh/billion/</guid><pubDate>Sun, 13 Oct 2019 23:38:11 GMT</pubDate><content:encoded>&lt;p&gt;in 2017 i was looking for my first job as a software engineer and to my surprise had the choice to work either on enterprise blockchain software or on community building tools for a coworking company. it was a really obvious decision at the time since the coworking company was growing and recently hired a cto from spotify while the media was expressing serious doubts in the viability of cryptocurrency.&lt;/p&gt;
-&lt;p&gt;my personal website at the time stated that my interests were in ‘new media, creative coding, and frameworks for social progress’ and working for a company that actively supported freelancers across new york city and the world seemed the closest to my personal and professional values. &lt;/p&gt;
-&lt;h2&gt;what i learned working at a multi billion dollar start up&lt;/h2&gt;
-&lt;h1&gt;organization&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;finance is still a field requiring immense imagination&lt;/li&gt;
-&lt;li&gt;woke language goes only so far, and in fact engaging only in discourse is a good indication that action is being avoided&lt;/li&gt;
-&lt;li&gt;interview questions in our industry should have purpose beyond being ‘solvable’&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;engineering&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;rails (not ruby)&lt;/li&gt;
-&lt;li&gt;design patterns save time&lt;/li&gt;
-&lt;li&gt;css and end-to-end testing are worthwhile&lt;/li&gt;
-&lt;li&gt;adding dependencies is easy but costly&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;collaboration&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;type systems and lint rules create consistency for large codebases&lt;/li&gt;
-&lt;li&gt;onboarding is different for different engineers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;people&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;engineers need time to think but they like to be heard&lt;/li&gt;
-&lt;li&gt;folks actually do need community and honest communication is really important to connect people&lt;/li&gt;
-&lt;li&gt;it’s important to have an environment that encourages curiosity. in practice this means being able to safely make mistakes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;space&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;bathrooms are important places&lt;/li&gt;
-&lt;li&gt;monitors, standing desks, private offices, etc seem necessary to do work but if work is intrinsically interesting none of these are as critical as a quite area  &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[backfilling 2]]></title><description><![CDATA[i created this blog because i want to share with you the things that i’ll be working on. this could be code or just thoughts on what i’m…]]></description><link>https://recursive-buckwheat.surge.sh/backfilling-2/</link><guid isPermaLink="false">https://recursive-buckwheat.surge.sh/backfilling-2/</guid><pubDate>Sun, 13 Oct 2019 23:38:11 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;for the pairing interview i decided to bring my own code which was good and bad. i had built a tic tac toe game before and really did not feel like doing that (lol). and anyway i was in the process of writing a script to convert web-only books to pdf and just really wanted to make it work.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[backfilling 2]]></title><description><![CDATA[i created this blog because i want to share with you the things that i’ll be working on. this could be code or just thoughts on what i’m…]]></description><link>https://recursive-buckwheat.surge.sh/backfilling-2/</link><guid isPermaLink="false">https://recursive-buckwheat.surge.sh/backfilling-2/</guid><pubDate>Sun, 13 Oct 2019 23:38:11 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
@@ -105,4 +74,35 @@
 &lt;p&gt;i’ve decided to blog instead of tweet (my only other social media thing) because i hope it can allow for deeper, more interesting, reflections on my experience. for the last 2.5 years i kept a quiver notebook, titled ‘dev log’, where i wrote down what i did each day: technical contributions, links to interesting stuff, and anything i felt i would forget easily. i haven’t had the time to really process in total what was happening in my dev log until now.&lt;/p&gt;
 &lt;p&gt;in the beginning, i often recorded problems i was working on and who i thought i should talk to in order to solve them. sometimes i would include implementation ideas or just things to ‘look into’. for example, on feb. 14 2018 i wrote down &lt;code class=&quot;language-text&quot;&gt;look into babel transform-async-function&lt;/code&gt; while working on feature that asynchronously sent test emails. in the last year, however, my log slowly transformed from the notes of a programmer into task lists that served more as a document of what to repeat at standup than anything else. these lists would frequently be punctuated by long paragraphs processing either very intense meetings or individual encounters.&lt;/p&gt;
 &lt;p&gt;overall, one of the most common ‘tasks’ i documented include a variety of rake tasks in different rails services to backfill missing data following a migration. the reason this post is titled &lt;code class=&quot;language-text&quot;&gt;backfilling 2&lt;/code&gt; is because this is the 2nd time i’ve deviated from life as a working adult to learn things that i wish i knew or otherwise felt like was missing in my intellectual life. plus, i kind of love the sisyphean imagery of filling something with what used to be there.&lt;/p&gt;
-&lt;p&gt;i’ve decided after careful consideration that RC is the best place for me to backfill programming to my brain. when i imagined moving on from my first job as a software engineer to the next one, i realized that the primary allure of this fantasy rested on either a) proving to others i could find a better job than my current one, b) proving to others that i could obtain better pay or, c) some combination of a) and b). this felt super extrinsic to me, my needs, and my desire to connect with like-minded individuals. i feel really lucky that i can afford to navel gaze this hard while living in nyc and will be doing my best to not take that for granted.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;i’ve decided after careful consideration that RC is the best place for me to backfill programming to my brain. when i imagined moving on from my first job as a software engineer to the next one, i realized that the primary allure of this fantasy rested on either a) proving to others i could find a better job than my current one, b) proving to others that i could obtain better pay or, c) some combination of a) and b). this felt super extrinsic to me, my needs, and my desire to connect with like-minded individuals. i feel really lucky that i can afford to navel gaze this hard while living in nyc and will be doing my best to not take that for granted.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[47 billion]]></title><description><![CDATA[in 2017 i was looking for my first job as a software engineer and to my surprise had the choice to work either on enterprise blockchain…]]></description><link>https://recursive-buckwheat.surge.sh/billion/</link><guid isPermaLink="false">https://recursive-buckwheat.surge.sh/billion/</guid><pubDate>Sun, 13 Oct 2019 23:38:11 GMT</pubDate><content:encoded>&lt;p&gt;in 2017 i was looking for my first job as a software engineer and to my surprise had the choice to work either on enterprise blockchain software or on community building tools for a coworking company. it was a really obvious decision at the time since the coworking company was growing and recently hired a cto from spotify while the media was expressing serious doubts in the viability of cryptocurrency.&lt;/p&gt;
+&lt;p&gt;my personal website at the time stated that my interests were in ‘new media, creative coding, and frameworks for social progress’ and working for a company that actively supported freelancers across new york city and the world seemed the closest to my personal and professional values. &lt;/p&gt;
+&lt;h2&gt;what i learned working at a multi billion dollar start up&lt;/h2&gt;
+&lt;h1&gt;organization&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;finance is still a field requiring immense imagination&lt;/li&gt;
+&lt;li&gt;woke language goes only so far, and in fact engaging only in discourse is a good indication that action is being avoided&lt;/li&gt;
+&lt;li&gt;interview questions in our industry should have purpose beyond being ‘solvable’&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;engineering&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;rails (not ruby)&lt;/li&gt;
+&lt;li&gt;design patterns save time&lt;/li&gt;
+&lt;li&gt;css and end-to-end testing are worthwhile&lt;/li&gt;
+&lt;li&gt;adding dependencies is easy but costly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;collaboration&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;type systems and lint rules create consistency for large codebases&lt;/li&gt;
+&lt;li&gt;onboarding is different for different engineers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;people&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;engineers need time to think but they like to be heard&lt;/li&gt;
+&lt;li&gt;folks actually do need community and honest communication is really important to connect people&lt;/li&gt;
+&lt;li&gt;it’s important to have an environment that encourages curiosity. in practice this means being able to safely make mistakes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;space&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;bathrooms are important places&lt;/li&gt;
+&lt;li&gt;monitors, standing desks, private offices, etc seem necessary to do work but if work is intrinsically interesting none of these are as critical as a quite area  &lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>

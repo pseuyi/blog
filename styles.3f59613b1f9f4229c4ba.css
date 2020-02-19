@@ -1,0 +1,1 @@
+ol{margin-left:2rem;list-style-type:none;counter-reset:list 10}ol>li{position:relative}ol>li:before{position:absolute;left:-2rem;content:counter(list,cjk-earthly-branch) ": ";counter-increment:list -1}
