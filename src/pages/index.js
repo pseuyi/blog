@@ -17,25 +17,26 @@ class BlogIndex extends React.Component {
         <SEO title="porch" />
         <Bio />
         <h2 style={{ marginBottom: rhythm(4 / 4) }}>posts</h2>
-        <ul>
+        <ol >
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
               <li
                 key={node.fields.slug}
                 style={{
-                  marginBottom: rhythm(2 / 4),
+                  margin: 0,
+                  
                 }}
               >
-                <h3>
+                <div>
                   <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                     {title}
                   </Link>
-                </h3>
+                </div>
               </li>
             )
           })}
-        </ul>
+        </ol>
       </Layout>
     )
   }
